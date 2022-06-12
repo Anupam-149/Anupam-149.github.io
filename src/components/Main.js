@@ -106,7 +106,7 @@ const INTERESTS = styled(NavLink)`
   ${"" /* color: ${(props) => props.theme.text}; */}
   color: ${(props) => (props.click ? props.theme.text : props.theme.body)};
   position: absolute;
-  top: 50%;
+  top: 52%;
   right: calc(1rem);
   transform: rotate(90deg) translate(-40%, -40%);
   text-decoration: none;

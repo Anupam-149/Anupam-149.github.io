@@ -42,14 +42,14 @@ const Main = styled.div`
   z-index: 3;
   line-height: 1.5;
   align-items: center;
-  font-size: calc(0.6rem + 1vw);
+  font-size: calc(0.5rem + 1vw);
   backdrop-filter: blur(4px);
-
   position: absolute;
   left: calc(5rem + 5vw);
   top: 10rem;
   font-family: "Ubuntu Mono", monospace;
   font-style: italic;
+  overflow:hidden;
 `;
 
 const AboutPage = () => {
