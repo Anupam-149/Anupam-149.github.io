@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d3038d4e.js",
+    "static/js/937.cee98a12.chunk.js": "/static/js/937.cee98a12.chunk.js",
+    "static/media/Hacker.gif": "/static/media/Hacker.d46d98865b00d7ef8b9b.gif",
+    "static/media/u-said-it-v13-1167.mp3": "/static/media/u-said-it-v13-1167.949cee7ea4a6ad9499db.mp3",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/GraphicDesigning.jpeg": "/static/media/GraphicDesigning.ba118d9b0c8163d56ef3.jpeg",
+    "static/media/Java.webp": "/static/media/Java.3387411cde2b611e7367.webp",
+    "static/media/Davinci.webp": "/static/media/Davinci.086c003a7a53889637bd.webp",
+    "static/media/jquery.png": "/static/media/jquery.fb91f03a257b8dd5ed89.png",
+    "static/media/spaceman.png": "/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/Nodejs.png": "/static/media/Nodejs.abfaef34ea49d0c7cd3c.png",
+    "static/media/Bootstrap.png": "/static/media/Bootstrap.d5210cdeab1bc94309c4.png",
+    "static/media/Travel.jpeg": "/static/media/Travel.02636da81ca27bd04f7b.jpeg",
+    "static/media/React.jpeg": "/static/media/React.da7902284af096a15ec4.jpeg",
+    "static/media/Javascript.jpeg": "/static/media/Javascript.5a82d312bbe25b9e0416.jpeg",
+    "static/media/ClickMe.png": "/static/media/ClickMe.ea2b57826843743cf255.png",
+    "static/media/CSS.jpeg": "/static/media/CSS.ea573a38a5cdb801f97c.jpeg",
+    "static/media/Mongoose.png": "/static/media/Mongoose.5a40b32d78f1a1357ed2.png",
+    "static/media/profile-img.png": "/static/media/profile-img.5179e446ac1a570ce69b.png",
+    "static/media/ClickMe1.png": "/static/media/ClickMe1.3172aa75a605ffb79ba2.png",
+    "static/media/C:C++.webp": "/static/media/C:C++.5b71f2bc93e3c3eb50a5.webp",
+    "static/media/MongoDb.webp": "/static/media/MongoDb.ecec3ac898b39a21bce3.webp",
+    "static/media/LogoWhiteFont.png": "/static/media/LogoWhiteFont.1eab098255ed87581515.png",
+    "static/media/LogoBlackFont.png": "/static/media/LogoBlackFont.24911d9a5ab0a9cbfb39.png",
+    "static/media/framer-motion.webp": "/static/media/framer-motion.59b3489cd36230dded5d.webp",
+    "index.html": "/index.html",
+    "main.d3038d4e.js.map": "/static/js/main.d3038d4e.js.map",
+    "937.cee98a12.chunk.js.map": "/static/js/937.cee98a12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d3038d4e.js"
+  ]
+}
