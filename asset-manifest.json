@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.d3038d4e.js",
+    "main.js": "/static/js/main.1674cc8a.js",
     "static/js/937.cee98a12.chunk.js": "/static/js/937.cee98a12.chunk.js",
     "static/media/Hacker.gif": "/static/media/Hacker.d46d98865b00d7ef8b9b.gif",
     "static/media/u-said-it-v13-1167.mp3": "/static/media/u-said-it-v13-1167.949cee7ea4a6ad9499db.mp3",
+    "static/media/MyLogo.png": "/static/media/MyLogo.558c133ff01e076601e7.png",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
     "static/media/GraphicDesigning.jpeg": "/static/media/GraphicDesigning.ba118d9b0c8163d56ef3.jpeg",
     "static/media/Java.webp": "/static/media/Java.3387411cde2b611e7367.webp",
@@ -18,7 +19,6 @@
     "static/media/ClickMe.png": "/static/media/ClickMe.ea2b57826843743cf255.png",
     "static/media/CSS.jpeg": "/static/media/CSS.ea573a38a5cdb801f97c.jpeg",
     "static/media/Mongoose.png": "/static/media/Mongoose.5a40b32d78f1a1357ed2.png",
-    "static/media/profile-img.png": "/static/media/profile-img.5179e446ac1a570ce69b.png",
     "static/media/ClickMe1.png": "/static/media/ClickMe1.3172aa75a605ffb79ba2.png",
     "static/media/C:C++.webp": "/static/media/C:C++.5b71f2bc93e3c3eb50a5.webp",
     "static/media/MongoDb.webp": "/static/media/MongoDb.ecec3ac898b39a21bce3.webp",
@@ -26,10 +26,10 @@
     "static/media/LogoBlackFont.png": "/static/media/LogoBlackFont.24911d9a5ab0a9cbfb39.png",
     "static/media/framer-motion.webp": "/static/media/framer-motion.59b3489cd36230dded5d.webp",
     "index.html": "/index.html",
-    "main.d3038d4e.js.map": "/static/js/main.d3038d4e.js.map",
+    "main.1674cc8a.js.map": "/static/js/main.1674cc8a.js.map",
     "937.cee98a12.chunk.js.map": "/static/js/937.cee98a12.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.d3038d4e.js"
+    "static/js/main.1674cc8a.js"
   ]
 }
